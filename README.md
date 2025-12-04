@@ -1,6 +1,6 @@
 # -Operating-systems-Worksheet-2-Part-1
 ## Task 1
-Generally Task 1 was ok as it was just copying things. My first problem was that the command to copy the kernel
+Generally Task 1 was ok as it was just copying things from the Worksheet 2 Part 1 pdf on blackboard. My first problem was that the command to copy the kernel
 
 ld -T ./source/link.ld -melf_i386 loader.o -o kernel.elf
 
