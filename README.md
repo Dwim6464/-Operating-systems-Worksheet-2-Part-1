@@ -9,3 +9,5 @@ was not working. I am not really sure what the problem was as when I tried it ag
 I was unfortunately disadvantaged by the maintanance that occured on November the 28th, 29th 30th, and the 1st of December as each time that I tried to connect to CSCTcloud I was met with this error. Despite the fact that the maintance was meant to end at 8am on the 1st CSCTcloud continued to be down throughout the day.
 <img width="789" height="328" alt="image" src="https://github.com/user-attachments/assets/a1075d08-32ea-422d-9133-279187ae87cd" />
 
+## Definitions
+
