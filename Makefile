@@ -29,7 +29,7 @@ $(ISO): $(KERNEL)
                 mkisofs -R -b boot/grub/stage2_eltorito -no-emul-boot -boot-load-size 4 -boot-info-table -o $@ $(ISO_DIR); \
             else \
                 echo "Neither grub-mkrescue nor genisoimage/mkisofs found. Install one to build the ISO."; exit 1; \
-            fi \
+            fi \ #if spelled backwards to end it. whoever thought of this is the only funny computer scientist
         fi \
     fi
 
@@ -48,7 +48,7 @@ run: $(ISO)
         echo "QEMU not found. Install qemu-system-i386 or qemu-system-x86_64 to run the ISO."; exit 1; \
     fi
 
-# Cleans generated files and any leftover kernel binaries
+#cleans generated files and any leftover kernel binaries
 clean:
     rm -f $(ISO)
     rm -f $(KERNEL)
