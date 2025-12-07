@@ -10,4 +10,8 @@ I was unfortunately disadvantaged by the maintanance that occured on November th
 <img width="789" height="328" alt="image" src="https://github.com/user-attachments/assets/a1075d08-32ea-422d-9133-279187ae87cd" />
 
 ## Definitions
-**Phony target** - It is used when make targets something that is not a file but instead a command. It is also sometimes called a phony file.
+**Phony target** - It is used when Make targets something that is not a file but instead a command. It is also sometimes called a phony file.
+
+**grub-mkrescue** - A tool provided by the GRUB bootloader that creates a bootable ISO image containing a GRUB environment and your kernel /boot files.
+
+**Clean** - a phony target that deletes all temporary files. 
