@@ -10,6 +10,10 @@ was not working. I am not really sure what the problem was as when I tried it ag
 I was unfortunately disadvantaged by the maintanance that occured on November the 28th, 29th 30th, and the 1st of December as each time that I tried to connect to CSCTcloud I was met with this error. Despite the fact that the maintance was meant to end at 8am on the 1st CSCTcloud continued to be down throughout the day.
 <img width="789" height="328" alt="image" src="https://github.com/user-attachments/assets/a1075d08-32ea-422d-9133-279187ae87cd" />
 
+After creating the the file LogQ.txt I was met with the beginning of my operating system
+<img width="1222" height="877" alt="image" src="https://github.com/user-attachments/assets/fb398890-adb2-46a1-9719-2ffa2229a85b" />
+
+
 ## Definitions
 **Phony target** - It is used when Make targets something that is not a file but instead a command. It is also sometimes called a phony file.
 
